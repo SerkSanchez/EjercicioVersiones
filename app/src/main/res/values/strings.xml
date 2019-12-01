@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">Ejercicio_Versiones</string>
+
+    <string name="Beta">La beta ya está disponible de forma oficial, así que es cuestión de minutos que llegue a todos
+        los dispositivos Google Pixel que ya tengan la beta instalada. No hay demasiados cambios, mayormente se arreglan
+        algunos fallos de la anterior beta, pero sí hay elementos a destacar.</string>
+    <string name="Cupcake">Android 1.5 Cupcake fue la segunda versión de Android desarrollada por Google, un lanzamiento
+        mayor de la plataforma para los teléfonos inteligentes con Android, empezando en mayo de 2009. Este lanzamiento
+        incluyó nuevas funciones para ambos desarrolladores y usuarios, así como también en el esqueleto del API de
+        Android. Para los desarrolladores, la plataforma 1.5 de Android fue disponible como un componente
+        descargable del Android SDK.</string>
+    <string name="Donut">Android "Donut" es la cuarta versión del sistema operativo móvil Android de código abierto
+        desarrollado por Google que ya no es compatible. Entre las características más destacadas introducidas con esta
+        actualización se incluyeron soporte para teléfonos inteligentes CDMA , tamaños de pantalla adicionales, un indicador
+        de uso de batería y un motor de texto a voz. Después del lanzamiento público de Donut , su nombre en código oficial
+        con el tema del postre, la convención empleada por Google para designar las principales versiones de Android, los
+        operadores se apresuraron a seguir con su lanzamiento a los clientes en forma de una actualización por aire (OTA)
+        para teléfonos inteligentes compatibles.</string>
+    <string name="Eclair">Android "Eclair" es un nombre en clave del sistema operativo móvil Android desarrollado por Google
+        y el quinto sistema operativo para Android, y para las versiones 2.0 a 2.1 que ya no son compatibles. Presentado el
+        26 de octubre de 2009, Android 2.1 se basa en los cambios significativos realizados en Android 1.6 "Donut".</string>
+    <string name="Froyo">Android Froyo fue una versión del sistema operativo Android que se encuentra descontinuada. Fue
+        desarrollado por la compañía Google. Fue lanzada en el año 2010 bajo la identificación 2.2. Su ícono representativo
+        consiste en un dulce froyo o en español lo que equivale a un yogur con helado.</string>
+    <string name="GinGer_Bread">Android Gingerbread es la séptima versión del sistema operativo móvil Android, lanzada el 6 de
+        diciembre de 2010. Su nombre "Gingerbread" (pan de jengibre) es debido a que las versiones de Android reciben en inglés
+        el nombre de postres alfabéticamente.</string>
+    <string name="Honey_Comb">Android Honeycomb es la octava versión del sistema operativo Android. Fue ideado para dispositivos
+        con tamaños de pantalla más grandes (TV y tablets) y solo se pueden usar en este tipo de dispositivos. Fue lanzada el 22
+        de febrero de 2011 y dos días más tarde, se pondría a la venta su primer dispositivo, la tablet Motorola Xoom. Android
+        Honeycomb así mismo se divide en tres actualizaciones: Android 3.0, que fue la original, Android 3.1 y Android 3.2.</string>
+    <string name="Ice_Cream">Android Ice Cream Sandwich 4.0 es la novena versión del sistema operativo para smartphones Android
+        desarrollado por Google. Lanzado el 19 de octubre de 2011 ; Android 4.0 es diseñado con la intención de crear un sistema
+        operativo para smartphones y tablets, en contraposición a las dos versiones anteriores: Android Gingerbread 2.3 y Android
+        Honeycomb 3.0 diseñados exclusivamente para smartphones y tablets respectivamente.</string>
+    <string name="Jelly_Bean">Android Jelly Bean es el nombre en clave otorgado a tres lanzamientos de puntos principales del sistema
+        operativo móvil Android desarrollado por Google, que abarca versiones entre 4.1 y 4.3.1, que ya no son compatibles.</string>
+    <string name="KitKat">Android KitKat es la undécima versión del sistema operativo para smartphones Android desarrollado por Google.
+        Tras varios meses en desarrollo, fue lanzada el 31 de octubre de 2013 junto con el Nexus 5. Más tarde salió para Motorola y otras
+        marcas.
+        Dado que las versiones de Android reciben en inglés el nombre de postres alfabéticamente, se tenía pensado llamar inicialmente
+        "Key Pie Lime" (tarta de lima). Sin embargo, pocos meses antes del lanzamiento Google llegó a un acuerdo con la empresa alimenticia
+        Nestlé para que esta versión llevara el nombre de uno de sus productos: "KitKat", una galleta de chocolate y leche.
+        Esta versión trae consigo muchas novedades como tanto en diseño, como en funcionalidad y rendimiento. Además, destaca por funcionar
+        con sólo 512MB de RAM y reducir el gasto de batería haciéndolo una buena opción. Desde su lanzamiento, se lanzaron cuatro
+        nuevas actualizaciones: "4.4.1", "4.4.2", "4.4.3", "4.4.4".</string>
+
+</resources>

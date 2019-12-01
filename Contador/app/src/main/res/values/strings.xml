@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Count</string>
+    <string name="botonsuma">+1</string>
+    <string name="app_aviso">The application will close</string>
+
+</resources>

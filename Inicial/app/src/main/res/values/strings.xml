@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Inicial</string>
+    <string name="prueba_nombre">Hola, mi nombre es Sergio</string>
+    <string name="app_boton">PULSAR</string>
+</resources>

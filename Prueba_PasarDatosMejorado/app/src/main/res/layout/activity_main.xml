@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity"
+    android:orientation="vertical"
+    android:layout_margin="20dp"
+    android:gravity="center"
+    android:weightSum="1">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="INTRODUCE TUS DATOS"
+        android:textSize="30sp"
+        android:textAlignment="center"/>
+    
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="0.3"
+        android:orientation="vertical"
+        android:weightSum="1">
+        <EditText
+            android:id="@+id/textoCapturaNombre"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="0.4"
+            android:hint="Introduce tu nombre"
+            android:inputType="text"/>
+        <EditText
+            android:id="@+id/textoCapturaTelefono"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="0.4"
+            android:hint="Introduce tu telefono"
+            android:inputType="phone"
+            android:maxLength="9"/>
+        <CheckBox
+            android:id="@+id/checkCarnet"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="0.2"
+            android:text="¿Tienes carnet de conducir?" />
+    </LinearLayout>
+
+    <Button
+        android:id="@+id/btnPaso"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="PASAR DATOS" />
+
+</LinearLayout>
